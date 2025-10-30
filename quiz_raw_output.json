@@ -1,0 +1,887 @@
+[
+  {
+    "filename": "1.png",
+    "status": "error",
+    "error": "JSON decode error: Unterminated string starting at: line 2 column 15 (char 16)",
+    "raw_response": "{\n  \"question\": \"You are the administrator for an Oracle Analytics Analytics Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud Cloud"
+  },
+  {
+    "filename": "10.png",
+    "status": "success",
+    "data": {
+      "question": "Which two methods do you use to invoke the best visualization in OAC?",
+      "type": "Checkboxes",
+      "options": [
+        "Select the desired data elements from the Data Elements pane, and then right-click and select Create Best Visualization from the drop-down menu",
+        "Change the project's properties to 'Always use Best Visualization'",
+        "Select the desired data elements from the Data Elements pane and drag them to a blank area of the canvas",
+        "Select the Best Visualization option from the project's Canvas Settings drop-down menu"
+      ],
+      "correct_answers": [
+        0,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:45:36.275772"
+  },
+  {
+    "filename": "11.png",
+    "status": "success",
+    "data": {
+      "question": "11. Which type of report is an example of the bursting feature in Pixel Perfect Reporting?",
+      "type": "Multiple Choice",
+      "options": [
+        "Ad hoc reporting",
+        "Interactive data exploration",
+        "Government PDF forms",
+        "Customized regional marketing reports",
+        "Bar codes"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:46:02.188421"
+  },
+  {
+    "filename": "12.png",
+    "status": "success",
+    "data": {
+      "question": "You have a business security requirement allowing a user defined Group to create and edit only data sets and workbooks. Which statement is true regarding Oracle Analytics Cloud Application Roles?",
+      "type": "Multiple Choice",
+      "options": [
+        "Create a User-Defined Application Role with only the required authoring capabilities and grant it to the Group.",
+        "Modify the \"DV Content Author\" Application Role permissions with only the required authoring capabilities and grant it to the Group.",
+        "Use the predefined \"BI Content Author\" application role and grant it to the Group."
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:46:48.574994"
+  },
+  {
+    "filename": "13.png",
+    "status": "success",
+    "data": {
+      "question": "Which two statements are true regarding brushing in Oracle Analytics Analytics Cloud (OAC)?",
+      "type": "Checkboxes",
+      "options": [
+        "Brushing requires the creation of a special brushing object in the data model",
+        "Brushing can be used to highlight related data points across multiple linked visualizations",
+        "Brushing works only with visualizations of the same type (for example, bar chart to bar chart)",
+        "Brushing automatically creates a new data source based on the selected data points"
+      ],
+      "correct_answers": [
+        1,
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:47:20.820997"
+  },
+  {
+    "filename": "14.png",
+    "status": "success",
+    "data": {
+      "question": "14. What does a fact table use to reference dimension tables?",
+      "type": "Multiple Choice",
+      "options": [
+        "Dimension attribute",
+        "Primary key",
+        "Master key",
+        "Aggregate type",
+        "Foreign key"
+      ],
+      "correct_answers": [
+        4
+      ]
+    },
+    "timestamp": "2025-10-29T01:47:39.467238"
+  },
+  {
+    "filename": "15.png",
+    "status": "success",
+    "data": {
+      "question": "You are working on a Sales Data Data Model with the following elements: Sales, Customer, Time, Geography, and Product. The Time dimension includes columns for Calendar Date, Year, Quarter, and Month. You want to analyze Sales within the same visualization by navigating from the Year level to the Month level. Which capability of the Oracle Analytics Cloud (OAC) will you use?",
+      "type": "Multiple Choice",
+      "options": [
+        "Drill Down Functions in Expression Editor",
+        "The Hierarchy capability in Oracle Analytics Semantic Modeler",
+        "Oracle Analytics automatically creates this capability for all Dimensions",
+        "Use the Analytics Link capability to navigate to a different canvas in Data Actions"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T01:48:37.341947"
+  },
+  {
+    "filename": "16.png",
+    "status": "success",
+    "data": {
+      "question": "16. Which action aids the creation of a story after generating visuals with Auto Insights in Oracle Analytics Cloud?",
+      "type": "Multiple Choice",
+      "options": [
+        "Navigate to the story creation feature available in Oracle Analytics Server.",
+        "Navigate to the Visualize Tab in Oracle Analytics Cloud for story development.",
+        "Utilize the Oracle Day by Day Mobile Application for story creation.",
+        "Navigate to the Present Tab in Oracle Analytics Cloud for story development."
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:49:08.951651"
+  },
+  {
+    "filename": "17.png",
+    "status": "success",
+    "data": {
+      "question": "17. Which role is required to edit and create a new semantic model in Oracle Analytics Cloud Enterprise Edition?",
+      "type": "Multiple Choice",
+      "options": [
+        "BI Content Author",
+        "BI RPD Model Author",
+        "BI Data Model Author",
+        "BI Data Load Author",
+        "DV Consumer Role"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T01:49:48.087239"
+  },
+  {
+    "filename": "18.png",
+    "status": "success",
+    "data": {
+      "question": "The Administrator has navigated to the console page and clicked on search index. Which three items can be included in the index?",
+      "type": "Checkboxes",
+      "options": [
+        "Shared Folders",
+        "Content Folder",
+        "Data Models",
+        "User Folders",
+        "Templates"
+      ],
+      "correct_answers": [
+        0,
+        2,
+        4
+      ]
+    },
+    "timestamp": "2025-10-29T01:50:22.061890"
+  },
+  {
+    "filename": "19.png",
+    "status": "success",
+    "data": {
+      "question": "You access a data visualization workbook by using your phone's browser. The canvas has three visualizations. How are the visualizations sized?",
+      "type": "Multiple Choice",
+      "options": [
+        "The first visualization takes 50% of the display area and the other two take 25% each.",
+        "Each visualization is of the same size.",
+        "Only a single visualization is displayed.",
+        "You cannot access data visualization by using a phone's browser."
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T01:50:56.750460"
+  },
+  {
+    "filename": "2.png",
+    "status": "success",
+    "data": {
+      "question": "Which two statements are true about using parameters in Oracle Analytics Cloud (OAC) dashboard that analyzes sales data across attributes such as Customer Segment, Order Priority, Product Category, and City?",
+      "type": "Checkboxes",
+      "options": [
+        "Parameters can only be used with prompts on visualizations.",
+        "Parameters can be used as column selectors.",
+        "Parameters can be used with workbook titles and visualization labels.",
+        "Parameters can only be used as filters."
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:51:56.904583"
+  },
+  {
+    "filename": "20.png",
+    "status": "success",
+    "data": {
+      "question": "You are tasked with creating a report in Oracle Analytics Analytics Publisher Publisher (OAP) that displays sales figures by product category, category and region. The data source is a relational database. Which is the initial step when building this report in OAP?",
+      "type": "Multiple Choice",
+      "options": [
+        "Select the charts and graphs to visualize the sales data",
+        "Create prompts to allow users to select specific product categories and regions",
+        "Define the data model connection to the relational database",
+        "Design the layout of the report using the Layout Editor"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:52:53.647869"
+  },
+  {
+    "filename": "21.png",
+    "status": "success",
+    "data": {
+      "question": "Which two maps use an API key to add as Map Background?",
+      "type": "Checkboxes",
+      "options": [
+        "Baidu Map",
+        "Google Map",
+        "Tiled Web Map",
+        "WMS Map",
+        "Oracle Map"
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:53:13.214255"
+  },
+  {
+    "filename": "22.png",
+    "status": "success",
+    "data": {
+      "question": "22. Which statement is true about Data Flows and Sequences?",
+      "type": "Multiple Choice",
+      "options": [
+        "Sequences can be scheduled but not Data Flows",
+        "Sequences cannot be scheduled but Data Flows can",
+        "Both Sequences and Data Flows can be scheduled",
+        "You cannot run a Sequence"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:53:35.613654"
+  },
+  {
+    "filename": "23.png",
+    "status": "success",
+    "data": {
+      "question": "How do you find the number of users signed in to your OAC Instance?",
+      "type": "Multiple Choice",
+      "options": [
+        "By asking the administrator to provide the number of users logged in to the OAC Instance",
+        "By running users() from Issue SQL",
+        "By running users() from Issue SQL",
+        "By accessing Users and Roles"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T01:54:02.913523"
+  },
+  {
+    "filename": "24.png",
+    "status": "success",
+    "data": {
+      "question": "24. You are working with an Oracle Analytics Analytics Cloud Cloud (OAC) workbook containing key sales performance metrics. You want to automatically deliver these insights to regional sales managers every Monday morning. Which statement about using the Workbook Email Scheduler is true?",
+      "type": "Multiple Choice",
+      "options": [
+        "The Workbook Email Scheduler supports sending dashboards along with scheduled emails.",
+        "Bursting allows you to personalize the emailed workbook for each recipient based on their data access permissions.",
+        "All regional managers must be preconfigured as Oracle Analytics Cloud users to receive scheduled emails with the workbook.",
+        "You can schedule emails for workbooks on the \"My Folders\" and \"Shared Folders.\"",
+        "The feature currently doesn't require any specific configuration by an OAC administrator."
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T01:55:11.187757"
+  },
+  {
+    "filename": "25.png",
+    "status": "success",
+    "data": {
+      "question": "Which data action must you use to connect to Oracle Analytics Publisher reports?",
+      "type": "Multiple Choice",
+      "options": [
+        "HTTP API",
+        "Publish Event",
+        "Webhooks",
+        "URL Navigation",
+        "Analytics Link"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:55:35.486505"
+  },
+  {
+    "filename": "26.png",
+    "status": "success",
+    "data": {
+      "question": "26. In Oracle Analytics Analytics Cloud (OAC), you can quickly search for saved objects. However, if your input or search criteria is not formed correctly, it will not return any results. What could be the problem with your input?",
+      "type": "Multiple Choice",
+      "options": [
+        "The input contains a comma (,) in the search text.",
+        "The input contains the date attribute in the year-month-day format.",
+        "The input contains an asterisk (*) in the search text (for example, *revenue).",
+        "The input contains the object name only as a search text."
+      ],
+      "correct_answers": [
+        0,
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:56:39.616080"
+  },
+  {
+    "filename": "27.png",
+    "status": "success",
+    "data": {
+      "question": "You have been tasked with building an analysis that requires data from two subject areas. How do you accomplish this?",
+      "type": "Multiple Choice",
+      "options": [
+        "A subject area must be modified to include all the columns required",
+        "Create two separate analyses and use the union feature",
+        "Create an analysis and add a second subject area for a union",
+        "Create two separate analyses and use the merge feature"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:57:12.870238"
+  },
+  {
+    "filename": "28.png",
+    "status": "success",
+    "data": {
+      "question": "You add a clusters statistic to your scatter chart. What does this help you identify?",
+      "type": "Multiple Choice",
+      "options": [
+        "Disparate groups of data points",
+        "Heterogeneous groups of data points",
+        "Homogeneous groups of data points",
+        "Homogeneous and heterogeneous groups of data points"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:57:36.833130"
+  },
+  {
+    "filename": "29.png",
+    "status": "success",
+    "data": {
+      "question": "29. You have a data set of stocks with the columns Date, MaxStockPrice, and MinStockPrice. Which column cannot be removed when performing a trend analysis?",
+      "type": "Multiple Choice",
+      "options": [
+        "MinStockPrice",
+        "MaxStockPrice",
+        "All columns are required",
+        "Date"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:58:11.949750"
+  },
+  {
+    "filename": "3.png",
+    "status": "success",
+    "data": {
+      "question": "3. An analyst is creating a story on the Present tab of a workbook in Oracle Analytics Analytics Cloud (OAC). Which statement is true regarding the use of the Present tab in workbooks?",
+      "type": "Multiple Choice",
+      "options": [
+        "The Present tab allows you to create static reports that can only be exported as PDFs.",
+        "The Present tab is used to define data connections for external data sources.",
+        "The Present tab is used for data preparation and transformation before creating visualizations.",
+        "The Present tab allows you to create interactive presentations and stories."
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T01:58:53.204554"
+  },
+  {
+    "filename": "30.png",
+    "status": "success",
+    "data": {
+      "question": "You have a global data set for oil prices for a period of time for each country. However, you need to perform analyses on Asian countries for a period of one month.",
+      "type": "Checkboxes",
+      "options": [
+        "Range and Expression",
+        "List and Date Range",
+        "List and Range",
+        "Date Range and Top Bottom",
+        "Expression and Date Range"
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T01:59:51.971614"
+  },
+  {
+    "filename": "31.png",
+    "status": "success",
+    "data": {
+      "question": "You must create an Oracle Autonomous Data Warehouse connection for a data set. What do you need to create this connection for the appropriate schema? TNS descriptor and user credentials, SSO file and user credentials, Wallet file, TNS descriptor, and user credentials, Wallet file and user credentials, SSO file, tnsnames file, and user credentials.",
+      "type": "Multiple Choice",
+      "options": [
+        "TNS descriptor and user credentials",
+        "SSO file and user credentials",
+        "Wallet file, TNS descriptor, and user credentials",
+        "Wallet file and user credentials",
+        "SSO file, tnsnames file, and user credentials"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:00:28.926253"
+  },
+  {
+    "filename": "32.png",
+    "status": "success",
+    "data": {
+      "question": "32. You are designing an analytics solution for a company that distributes packaged foods for independent retailers. The solution requires self-service analytics capabilities for product management and marketing. In addition, highly formatted reports must be delivered by scheduled email to external resellers. Which edition of Oracle Analytics must you use?",
+      "type": "Multiple Choice",
+      "options": [
+        "OAC Business Intelligence Edition",
+        "OAC Enterprise Edition",
+        "OA Fusion Analytics Warehouse Edition",
+        "OAC Professional Edition",
+        "OA Data Visualization Cloud"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T02:01:24.564163"
+  },
+  {
+    "filename": "33.png",
+    "status": "success",
+    "data": {
+      "question": "33. Which is a supported source for registering and using Machine Learning models?",
+      "type": "Multiple Choice",
+      "options": [
+        "Mongo Database",
+        "SQL Server",
+        "Oracle Cloud Object Storage",
+        "Autonomous Data Warehouse"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:01:49.231392"
+  },
+  {
+    "filename": "34.png",
+    "status": "success",
+    "data": {
+      "question": "34. Which are two use-cases for Data Flow?",
+      "type": "Checkboxes",
+      "options": [
+        "Create a custom Python Machine Learning model using OOTB capabilities in Data Flow.",
+        "Perform some lightweight transformation within the Workbook.",
+        "To curate data sets that can be used for visualizations.",
+        "Train and test the Machine Learning model."
+      ],
+      "correct_answers": [
+        2,
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:02:16.747039"
+  },
+  {
+    "filename": "35.png",
+    "status": "success",
+    "data": {
+      "question": "What are the two steps to create a data set that you can use for analyzing country revenues over time?",
+      "type": "Checkboxes",
+      "options": [
+        "Keep Matching Rows on both data sets and match the ID column",
+        "Apply the default Aggregation on Year",
+        "Apply the default Aggregation on Revenue_amount"
+      ],
+      "correct_answers": [
+        0,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:03:14.357365"
+  },
+  {
+    "filename": "36.png",
+    "status": "success",
+    "data": {
+      "question": "36. Your client wants to implement a custom plug-in from the Oracle Analytics Analytics Library. You just finished uploading the extension to Oracle Analytics Cloud (OAC). What action do you need to take before the extension is available for use in projects?",
+      "type": "Multiple Choice",
+      "options": [
+        "Refresh the page.",
+        "Restart the OAC instance.",
+        "No additional action is needed.",
+        "Enable the plug-in from the Plug-in menu."
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:03:57.494173"
+  },
+  {
+    "filename": "37.png",
+    "status": "success",
+    "data": {
+      "question": "You create a Watchlist in Oracle Analytics Analytics Cloud (OAC) to display critical sales visualizations for your region. Which one of the following statements about adding visualizations to a Watchlist is true?",
+      "type": "Multiple Choice",
+      "options": [
+        "Adding a visualization to a Watchlist removes it from the original workbook.",
+        "You can only add visualizations from the same workbook to a Watchlist.",
+        "You can add any visualization from any workbook in OAC to a Watchlist.",
+        "Watchlists can only contain tables and graphs but cannot include charts."
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:04:35.022334"
+  },
+  {
+    "filename": "38.png",
+    "status": "success",
+    "data": {
+      "question": "You have created a product type type dashboard prompt and applied it to the Sales dashboard. You have four reports on the Revenue dashboard page. When a user selects and applies the dashboard prompts, the data in two reports is being refreshed as per the prompt values selected, but the data in the two other reports is not getting refreshed. What are two possible reasons for this?",
+      "type": "Checkboxes",
+      "options": [
+        "The reports have a protected filter.",
+        "The Reports filter is set to the presentation variable.",
+        "The Reports filter formula is different from the prompt column formula."
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:05:34.331392"
+  },
+  {
+    "filename": "39.png",
+    "status": "success",
+    "data": {
+      "question": "The Order page page of the Sales dashboard dashboard contains a report. When a user clicks the value of the States column, the report is displayed in a new window. The user wants the click event drilled down in the same window. How can you achieve this requirement?",
+      "type": "Multiple Choice",
+      "options": [
+        "You can set Link - Within the dashboard in report properties.",
+        "It is not possible to open the drill in the report in the same window.",
+        "You can set publish page to dashboard in dashboard properties.",
+        "You can set the drill in place option in section properties."
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:06:26.489420"
+  },
+  {
+    "filename": "4.png",
+    "status": "success",
+    "data": {
+      "question": "Which two can be defined on a canvas in a story in Oracle Analytics Cloud?",
+      "type": "Checkboxes",
+      "options": [
+        "Notes",
+        "Notifications",
+        "Filters",
+        "Narration"
+      ],
+      "correct_answers": [
+        0,
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:06:49.586619"
+  },
+  {
+    "filename": "41.png",
+    "status": "success",
+    "data": {
+      "question": "You have a business requirement to create a three-month rolling Sales Sales calculation in an Oracle Analytics Cloud Cloud (OAC) workbook. Which time series function are you going to use?",
+      "type": "Multiple Choice",
+      "options": [
+        "TODATE(Sales, Month)",
+        "PERIODROLLING(Sales, -1, 1)",
+        "AGO(Sales, Month, 3)",
+        "FORECAST(Sales, Month, 3)"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T02:07:29.304899"
+  },
+  {
+    "filename": "42.png",
+    "status": "success",
+    "data": {
+      "question": "42. Oracle Applications Applications Connector supports Oracle Fusion Applications Cloud\nWhich is valid about Oracle Applications Applications Connector?",
+      "type": "Multiple Choice",
+      "options": [
+        "It cannot connect to on-premises Oracle BI Enterprise Edition.",
+        "The Active User's Credentials option in the Create Oracle Application Application Connection dialog box cannot be used with Oracle Applications Connector.",
+        "When creating a connection, enter the URL for Oracle Fusion Applications.",
+        "It can be used with the Thin Client Modeler."
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:08:19.991300"
+  },
+  {
+    "filename": "43.png",
+    "status": "success",
+    "data": {
+      "question": "Which of these steps is REQUIRED in a Data Flow to create a new curated data set?",
+      "type": "Multiple Choice",
+      "options": [
+        "Add Data",
+        "Merge Columns",
+        "Filter",
+        "Aggregate"
+      ],
+      "correct_answers": [
+        0
+      ]
+    },
+    "timestamp": "2025-10-29T02:08:41.466143"
+  },
+  {
+    "filename": "44.png",
+    "status": "success",
+    "data": {
+      "question": "How should you determine the accuracy of a Machine Learning model created in Oracle Analytics Cloud (OAC)?",
+      "type": "Multiple Choice",
+      "options": [
+        "Create a Data Flow that includes a histogram.",
+        "Open the Inspect dialog for a given Machine Learning model and review the F1 score.",
+        "Use the Debug option in the Data Flow where the model was created.",
+        "Run the Machine Learning model with various filter values applied."
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T02:09:12.495102"
+  },
+  {
+    "filename": "45.png",
+    "status": "success",
+    "data": {
+      "question": "How should you use a machine learning model within a canvas of an Oracle Analytics Cloud Workbook?",
+      "type": "Multiple Choice",
+      "options": [
+        "Create a custom calculation",
+        "Create a scenario using the required model",
+        "Use the machine learning model for visualization",
+        "Create a data sequence"
+      ],
+      "correct_answers": [
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T02:09:37.161602"
+  },
+  {
+    "filename": "46.png",
+    "status": "success",
+    "data": {
+      "question": "You are creating an analytics solution for a financial institution using Oracle Analytics Cloud. One of the requirements is a workbook with a model that identifies customers with multiple potential fraudulent transactions. Which algorithm would be the best fit for this purpose?",
+      "type": "Multiple Choice",
+      "options": [
+        "Anomaly Detection",
+        "Logistic Regression",
+        "Decision Tree",
+        "Support Vector Machine"
+      ],
+      "correct_answers": [
+        0
+      ]
+    },
+    "timestamp": "2025-10-29T02:10:25.165458"
+  },
+  {
+    "filename": "47.png",
+    "status": "success",
+    "data": {
+      "question": "When designing a dashboard in the Oracle Analytics Analytics Cloud (OAC) workbook, you want to ensure an optimal viewing experience and alignment of visualizations across various devices such as mobiles, tablets, and laptops. Which two functionalities can be achieved using Canvas Properties in OAC?",
+      "type": "Checkboxes",
+      "options": [
+        "Hiding, creating, or moving visualizations on the canvas depending on specific breakpoints",
+        "Configuring color themes specific to each device type",
+        "Defining canvas responsive layouts that adapt to different screen sizes",
+        "Setting individual font sizes for data labels within visualizations",
+        "Enabling automatic refresh of data based on device type"
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:11:29.996597"
+  },
+  {
+    "filename": "48.png",
+    "status": "success",
+    "data": {
+      "question": "48. Which two statements are true about Presentation Presentation Catalog Catalog?",
+      "type": "Checkboxes",
+      "options": [
+        "My Folders can be shared with other users",
+        "Catalog items can be set to read-only",
+        "You can grant ownership of items you create to other users",
+        "To prevent corruption of the catalog, storage of objects of different types must be segregated into their own folders"
+      ],
+      "correct_answers": [
+        1,
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:12:02.840771"
+  },
+  {
+    "filename": "49.png",
+    "status": "success",
+    "data": {
+      "question": "You are working on a Sales Order Order Data Data Model with Sales Order Order Header and Sales Order Order Details stored in a dataset. There is a fact column that represents the number of items per order. You need to ensure the aggregation aggregation rule for this column is set to Count. Which two methods can be used to set the aggregation aggregation rule for this column to Count within Oracle Analytics Cloud (OAC)?",
+      "type": "Checkboxes",
+      "options": [
+        "Create a new calculated column using the COUNT() aggregation function in the Expression Editor",
+        "Change the column's aggregation rule to Count in the Present tab",
+        "Changing the column's aggregation rule is not possible after the dataset is imported",
+        "Change the column's aggregation rule to Count in the Data tab"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:13:01.006762"
+  },
+  {
+    "filename": "5.png",
+    "status": "success",
+    "data": {
+      "question": "5. What are two benefits of using Oracle Cloud Infrastructure (OCI) Logging to access Oracle Analytics Analytics Cloud (OAC) logs?",
+      "type": "Checkboxes",
+      "options": [
+        "OCI Logging allows direct editing of OAC logs and streamlines data export for external tools.",
+        "OCI Logging offers a centralized location for managing logs from OAC resources.",
+        "OCI Logging automatically archives OAC logs for disaster recovery purposes.",
+        "OCI Logging simplifies compliance auditing for OAC user activity."
+      ],
+      "correct_answers": [
+        1,
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:13:41.175914"
+  },
+  {
+    "filename": "50.png",
+    "status": "success",
+    "data": {
+      "question": "Which statement statement accurately accurately describes describes the role and and function of of a Data Data Gateway Gateway? It enables enables secure and and efficient data data transfer transfer between between on-premises data data sources sources and and Oracle Oracle Analytics Analytics Cloud Cloud. It serves serves as a tool for for data data visualization visualization within within Oracle Oracle Analytics Analytics Cloud Cloud. It provides provides advanced advanced data data analysis analysis capabilities capabilities for for Oracle Oracle Database Database users users. It is designed designed to to optimize optimize cloud cloud storage storage usage usage within within Oracle Oracle Analytics Analytics Cloud Cloud.",
+      "type": "Multiple Choice",
+      "options": [
+        "It enables enables secure and and efficient data data transfer transfer between between on-premises data data sources sources and and Oracle Oracle Analytics Analytics Cloud Cloud.",
+        "It serves serves as a tool for for data data visualization visualization within within Oracle Oracle Analytics Analytics Cloud Cloud.",
+        "It provides provides advanced advanced data data analysis analysis capabilities capabilities for for Oracle Oracle Database Database users users.",
+        "It is designed designed to to optimize optimize cloud cloud storage storage usage usage within within Oracle Oracle Analytics Analytics Cloud Cloud."
+      ],
+      "correct_answers": [
+        0
+      ]
+    },
+    "timestamp": "2025-10-29T02:14:43.946683"
+  },
+  {
+    "filename": "6.png",
+    "status": "success",
+    "data": {
+      "question": "6. Which version of OBIEE is supported for migration to OAC?",
+      "type": "Multiple Choice",
+      "options": [
+        "OBIEE 12g and later",
+        "OBIEE 11.1.X and later",
+        "OBIEE 11.1.X and later",
+        "OBIEE 10g",
+        "OBIEE 12c only",
+        "You cannot migrate content from OBIEE to OAC"
+      ],
+      "correct_answers": [
+        0,
+        1
+      ]
+    },
+    "timestamp": "2025-10-29T02:15:07.254913"
+  },
+  {
+    "filename": "7.png",
+    "status": "success",
+    "data": {
+      "question": "Which feature in Console is the only way for the Administrator to change the ownership of your colleague's artifacts?",
+      "type": "Multiple Choice",
+      "options": [
+        "Go to the individual artifacts and assign them to the Administrator",
+        "Snapshots",
+        "System Settings",
+        "Users and Roles",
+        "Content"
+      ],
+      "correct_answers": [
+        3
+      ]
+    },
+    "timestamp": "2025-10-29T02:15:45.972706"
+  },
+  {
+    "filename": "8.png",
+    "status": "success",
+    "data": {
+      "question": "Which technique does Data Preparation in OAC use for recommendation with sensitive information such as SSN, credit card number, and customer number?",
+      "type": "Multiple Choice",
+      "options": [
+        "Sentiment Analysis algorithms",
+        "Cryptographic algorithms to encrypt sensitive information",
+        "Obfuscation to protect sensitive information",
+        "Advanced Analytics functions"
+      ],
+      "correct_answers": [
+        2
+      ]
+    },
+    "timestamp": "2025-10-29T02:16:27.420200"
+  },
+  {
+    "filename": "9.png",
+    "status": "error",
+    "error": "JSON decode error: Unterminated string starting at: line 2 column 15 (char 16)",
+    "raw_response": "{\n  \"question\": \"9. From which sources can the Explain feature feature in Oracle Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics Analytics"
+  }
+]
